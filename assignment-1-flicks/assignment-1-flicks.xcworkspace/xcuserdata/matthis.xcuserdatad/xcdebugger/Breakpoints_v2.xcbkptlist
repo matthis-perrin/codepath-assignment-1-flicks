@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "assignment-1-flicks/MovieDetailsViewController.swift"
+            timestampString = "476582872.378956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment_1_flicks.MovieDetailsViewController.movieImageUrl.getter : Swift.Optional&lt;__ObjC.NSURL&gt;"
+                  moduleName = "assignment-1-flicks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthis/Desktop/git/codepath/codepath-assignment-1-flicks/assignment-1-flicks/assignment-1-flicks/MovieDetailsViewController.swift"
+                  timestampString = "476582872.389447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment_1_flicks.MovieDetailsViewController.movieImageUrl.setter : Swift.Optional&lt;__ObjC.NSURL&gt;"
+                  moduleName = "assignment-1-flicks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthis/Desktop/git/codepath/codepath-assignment-1-flicks/assignment-1-flicks/assignment-1-flicks/MovieDetailsViewController.swift"
+                  timestampString = "476582872.393033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment_1_flicks.MovieDetailsViewController.movieImageUrl.materializeForSet : Swift.Optional&lt;__ObjC.NSURL&gt;"
+                  moduleName = "assignment-1-flicks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthis/Desktop/git/codepath/codepath-assignment-1-flicks/assignment-1-flicks/assignment-1-flicks/MovieDetailsViewController.swift"
+                  timestampString = "476582872.393182"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment_1_flicks.MovieDetailsViewController.init (assignment_1_flicks.MovieDetailsViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; assignment_1_flicks.MovieDetailsViewController"
+                  moduleName = "assignment-1-flicks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthis/Desktop/git/codepath/codepath-assignment-1-flicks/assignment-1-flicks/assignment-1-flicks/MovieDetailsViewController.swift"
+                  timestampString = "476582872.393303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment_1_flicks.MovieDetailsViewController.init (assignment_1_flicks.MovieDetailsViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;assignment_1_flicks.MovieDetailsViewController&gt;"
+                  moduleName = "assignment-1-flicks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthis/Desktop/git/codepath/codepath-assignment-1-flicks/assignment-1-flicks/assignment-1-flicks/MovieDetailsViewController.swift"
+                  timestampString = "476582872.393404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
